@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\dev\GraphicsCourse\Source\main.cpp(156,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\GraphicsCourse\Source\main.cpp(157,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\GraphicsCourse\Source\main.cpp(165,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\GraphicsCourse\Source\main.cpp(166,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GraphicsCourse.vcxproj -> C:\dev\GraphicsCourse\Binaries\GraphicsCourse.exe
